@@ -1,6 +1,7 @@
 # PyQt5 chatroom Readme
 
-依赖: PyQt5, socket, pymysql
+third-party dependence packages: **PyQt5**, **pymysql**
+第三方依赖: **PyQt5**, **pymysql**
 
 ## 目录
 
@@ -29,4 +30,4 @@
 
 ## CliSoc
 
-就是一个套接字类, 无图
+是一个基于 UDP 的套接字类, 负责连接服务器
