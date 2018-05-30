@@ -1,6 +1,7 @@
 # PyQt5 chatroom Readme
 
 third-party dependence packages: **PyQt5**, **pymysql**
+
 第三方依赖: **PyQt5**, **pymysql**
 
 ## 目录
