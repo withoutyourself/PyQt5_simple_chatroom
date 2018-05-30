@@ -4,11 +4,11 @@
 
 ## 目录
 
-- [class Login(QMainWindow)](#Login)
-- [class Register(QMainWindow)](#Register)
-- [class Chatroom(QMainWindow)](#Chatroom)
-- [class Popup(QMessageBox)](#Popup)
-- [class CliSoc(QUdpSocket)](#CliSoc)
+- [class Login(QMainWindow)](#login)
+- [class Register(QMainWindow)](#register)
+- [class Chatroom(QMainWindow)](#chatroom)
+- [class Popup(QMessageBox)](#popup)
+- [class CliSoc(QUdpSocket)](#clisoc)
 
 ## Login
 
